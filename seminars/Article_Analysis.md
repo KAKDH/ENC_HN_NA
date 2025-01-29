@@ -12,7 +12,7 @@
 *Note: I recommend using a slideshow to illustrate your presentation. You can time your presentation with slides in programs such as Keynote and PowerPoint.* 
 
 
-## Schema
+## Submission Schema
 
 Your name:
 
