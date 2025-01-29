@@ -14,11 +14,11 @@
 
 ## Schema
 
-Your name:
-Journal Article Title:
-Authors of the Article:
-Journal Title:
-Publication Date of the Article: 
+Your name:\\
+Journal Article Title:\\
+Authors of the Article:\\
+Journal Title:\\
+Publication Date of the Article: \\
 
 ### What is the purpose of the study?
 1.	Write down the exact statement in which the authors describe their aim. Use quotation marks around the exact wording and indicate the page number. 
