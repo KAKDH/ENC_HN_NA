@@ -72,3 +72,27 @@ Publication Date of the Article:
 ### Which topics for discussion arise from this article? 	
 15.	Write three open-ended questions (not yes/no questions) and/or discussion points that you want to explore in class with your colleagues. 
 
+## Seminar Reading List (required)
+
+### Week 2: Networks & History 
+* Ahnert, R., Ahnert, S.E. (2019), ‘Metadata, Surveillance and the Tudor State’,  *History Workshop Journal* 87:27–51.
+* Schich, M., et al. (2014), ‘A network framework of cultural history’, *Science* 345 (6196):558-562. 
+* Warren, C.N., et al. (2016), ‘Six Degrees of Francis Bacon: A Statistical Method for Reconstructing Large Historical Social Networks’, *DHQ: Digital Humanities Quarterly* 10(3), https://www.digitalhumanities.org/dhq/vol/10/3/000244/000244.html.
+
+### Week 3: Networks & Literature 
+* Min, S., Park, J. (2019), ‘Modeling narrative structure and dynamics with networks, sentiment analysis, and topic modeling’, *PLoS ONE* 14(12): https://doi.org/10.1371/journal.
+* Pang, N., Sun, M.,  Zhu, H. (2023), ‘Louise or Ferdinand? Exploring the protagonists of
+Love and Intrigue using social network analysis’, *Digital Scholarship in the Humanities*38:1214–1226.
+* Perri, V., et al. (2022), ‘One Graph to Rule them All: Using NLP and Graph
+Neural Networks to analyse Tolkien’s Legendarium’, *CHR 2022: Computational Humanities Research Conference, December 12 – 14, 2022, Antwerp, Belgium*: 
+https://doi.org/10.48550/arXiv.2210.07871.
+
+### Week 4: Networks & Scholarly Communication
+* Blidstein, M. and Zhitomirsky‑Geffet, M. (2022), ‘Towards a new generic framework for citation network generation and analysis in the humanities’, *Scientometrics* 127:4275–4297.
+* Gao, J., et al. (2022), ‘Gender influences in Digital Humanities co-authorship networks’, *Journal of Documentation* 78(7):327-350. 
+* Fagan, J.M., et al. (2018), ‘Assessing research collaboration through co-authorship network analysis’, *J Res Adm* 49(1):76–99. 
+
+
+### Week 5: Networks & Linguistics 
+### Week 6: Networks & Manuscript Studies 
+### Week 7: Networks & Social Relations
