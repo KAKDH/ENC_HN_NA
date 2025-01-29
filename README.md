@@ -15,3 +15,12 @@ By the end of the course, students will be able to critically evaluate network-b
 **Place:** 65 Rue de Richelieu, 75002 Paris
 
 **Teacher:** Dr Katarzyna Anna Kapitan
+
+## Assessment: 
+
+* Attendance and active participation – 20%
+* Article-review (in-class presentation & written submission) – 30%  
+* Final project (in-class project presentation & digital asset submission) – 50% 
+
+*Note: In order to pass the class you need to pass all three grading components (Attendance, Article-review, and Final Project).*
+
