@@ -14,6 +14,8 @@ Your submission will consist of:
 1. **Project Report** (1500–2500 words)   
 2. **Data Asset** (consisting of unprocessed data, Python code, Network visualisation) 
 
+You are expected to present your research questions, data sources, and considerations based on what you've learned in class in Week 8 (10-15 min presentation).  The submission will follow 4-5 weeks later (deadline 11 May 2025). 
+
 ## **Project Report Requirements**
 
 Your report should be structured as follows:
