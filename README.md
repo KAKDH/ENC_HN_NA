@@ -24,5 +24,5 @@ By the end of the course, students will be able to critically evaluate network-b
 
 *Note: In order to pass the class you need to pass all three grading components (Attendance, Article-review, and Final Project).*
 
-The deadline for the final project submission is 11 May 2025, see the submission Guidelines. 
+The deadline for the final project submission is 11 May 2025, see the submission Guidelines (https://github.com/KAKDH/ENC_HN_NA/blob/main/slides/Kapitan_2025_NA_Final_Assignement_Guidelines.md). 
 
